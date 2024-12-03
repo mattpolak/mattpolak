@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mattpolak
+- 👀 I’m interested in ideas & people who make them happen
+- 🌱 I’m currently learning programming and anything useful for me
+- 💞️ I’m looking to collaborate on anything meaningful
+- 📫 How to reach me: via Instagram
