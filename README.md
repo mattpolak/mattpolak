@@ -3,8 +3,8 @@
 📍 **Slovakia** | 🧠 **Agentic Engineer** | 🌐 **Strategic cooperator**
 
 - MBTI: **ENTJ-A** — systems thinker, perpetually optimizing
-- Runs the entire stack: design → backend → DNS → deploy
-- Reads psychology, economics, investing, history, biography, business, philosophy, tech, startups, sci-fi, novels
+- Run the entire stack: design → backend → DNS → deploy
+- Read psychology, economics, investing, history, biography, business, philosophy, tech, startups, sci-fi, classics, programming, ai
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -48,17 +48,10 @@
 
 ## 🔨 Current Projects
 
-- 🏫 **[gvbn.sk](https://gvbn.sk)** — Community platform for Gymnázium V. B. Nedožerského Prievidza. Built with plain HTML/CSS/JS — intentionally minimal, intentionally fast.
-           · [![Instagram](https://img.shields.io/badge/-@gvbnsk-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gvbnsk)
-           · [![Discord](https://img.shields.io/badge/-dsc.gg/gympel-5865F2?style=flat-square&logo=discord&logoColor=white)](https://dsc.gg/gympel)
-           · [![Linktree](https://img.shields.io/badge/-linktr.ee/gvbnsk-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/gvbnsk)
+- 🏫 **[gvbn.sk](https://gvbn.sk)** — Community platform for Gymnázium V. B. Nedožerského Prievidza. Built with plain HTML/CSS/JS — intentionally minimal, intentionally fast · [![Instagram](https://img.shields.io/badge/-@gvbnsk-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gvbnsk) [![Discord](https://img.shields.io/badge/-dsc.gg/gympel-5865F2?style=flat-square&logo=discord&logoColor=white)](https://dsc.gg/gympel) [![Linktree](https://img.shields.io/badge/-linktr.ee/gvbnsk-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/gvbnsk)
 - 🪑 **[Ergosona](https://ergosona.vercel.app/)** — AI posture corrector focused on ergonomics and body alignment. Real-time analysis, built for people who sit too long.
 - 🧠 **[Perceptim](https://perceptim.vercel.app/)** — Deliverables, not chats. AI orchestration that deploys a team of top models to deliver complete professional outputs — files, PDFs, presentations — from a single prompt. Complexity-based delivery: days to weeks.
-- 💰 **[MAGNADE](https://magnade.com)** — Super-wealthy simulator teaching private equity, Swiss trusts, Liechtenstein foundations, passport investing & UHNW strategy. Infinite gameplay. Built entirely with Claude.
-
-## 📊 GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/mattpolak)
+- 💰 **[Magnade](https://magnade.com)** — Super-wealthy simulator teaching private equity, Swiss trusts, Liechtenstein foundations, passport investing & UHNW strategy. Infinite gameplay. Built entirely with Claude.
 
 ## 🚀 What I'm Doing
 
@@ -71,4 +64,4 @@
 [![Instagram](https://img.shields.io/badge/-@connectwithmatthew-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/connectwithmatthew/)
 [![Threads](https://img.shields.io/badge/-@connectwithmatthew-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@connectwithmatthew)
 [![Email](https://img.shields.io/badge/-mttwp@proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:mttwp@proton.me)
-[![Discord](https://img.shields.io/badge/-mattpolak-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/connectwithmatthew)
+[![Discord](https://img.shields.io/badge/-connectwithmatthew-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/connectwithmatthew)
