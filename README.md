@@ -45,7 +45,7 @@
 ## 🔨 Current Projects
 
 - 🏫 **[GVBN.SK](https://gvbn.sk)** — Community platform for Gymnázium Vavrinca Benedikta Nedožerského v Prievidzi
-        → [![Instagram](https://img.shields.io/badge/-@gvbnsk-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gvbnsk) [![Discord](https://img.shields.io/badge/-dsc.gg/gympel-5865F2?style=flat-square&logo=discord&logoColor=white)](https://dsc.gg/gympel) [![Linktree](https://img.shields.io/badge/-linktr.ee/gvbnsk-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/gvbnsk)
+        - [![Instagram](https://img.shields.io/badge/-@gvbnsk-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gvbnsk) [![Discord](https://img.shields.io/badge/-dsc.gg/gympel-5865F2?style=flat-square&logo=discord&logoColor=white)](https://dsc.gg/gympel) [![Linktree](https://img.shields.io/badge/-linktr.ee/gvbnsk-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/gvbnsk)
 - 🫆 **[MOJE.GVBN.SK](https://moje.gvbn.sk)** — Internal platform for students of Gymnázium Vavrinca Benedikta Nedožerského v Prievidzi
 - 🛍️ **[SHOP.GVBN.SK](https://shop.gvbn.sk)** — All-in-one eshop of GVBN/Gymnázium Vavrinca Benedikta Nedožerského v Prievidzi. Official merch, unofficial student made, tickets to school events...  coming soon 👀
 - 🪑 **[Ergosona](https://ergosona.vercel.app/)** — AI posture corrector focused on ergonomics and body alignment. Real-time analysis, built for people who sit too long
