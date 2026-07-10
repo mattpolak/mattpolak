@@ -44,6 +44,8 @@
 
 ## 🔨 Current Projects
 
+- 🎓 **[GYMPD.SK](https://gympd.sk)** — Official website for Gymnázium Vavrinca Benedikta Nedožerského v Prievidzi
+  - All information about our school, news, activities, courses and events described in detail
 - 🏫 **[GVBN.SK](https://gvbn.sk)** — Community platform for Gymnázium Vavrinca Benedikta Nedožerského v Prievidzi
   - [![Instagram](https://img.shields.io/badge/-@gvbnsk-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gvbnsk) [![Discord](https://img.shields.io/badge/-dsc.gg/gympel-5865F2?style=flat-square&logo=discord&logoColor=white)](https://dsc.gg/gympel) [![Linktree](https://img.shields.io/badge/-linktr.ee/gvbnsk-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/gvbnsk)
 - 🫆 **[MOJE.GVBN.SK](https://moje.gvbn.sk)** — Internal platform for students of Gymnázium Vavrinca Benedikta Nedožerského v Prievidzi
